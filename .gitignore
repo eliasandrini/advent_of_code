@@ -4,3 +4,5 @@
 
 # input files, cannot be shared
 input.txt
+# old output files
+output*.txt
